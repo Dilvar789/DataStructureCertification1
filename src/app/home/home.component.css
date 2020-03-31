@@ -1,0 +1,14 @@
+#abc {
+    height: 550px;
+    width: 130%;
+}
+.card-img-top {
+     height: 190px;
+     width: 290px;
+}
+table {
+    border: 0.5px dotted black;
+  }
+  #aaa {
+    border: 0px ridge palegoldenrod;
+  }
